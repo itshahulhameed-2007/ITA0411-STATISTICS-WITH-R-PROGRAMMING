@@ -1,7 +1,7 @@
 # ITA0411 - Statistics with R Programming
 
-**Student Name**: [Your Name]
-**Course**: [Your Course Name]
+**Student Name**: A.Shahul Hameed
+**Course**: B.Tech - Computer Science and BioSciences
 
 ## 📋 Lab Experiments
 
