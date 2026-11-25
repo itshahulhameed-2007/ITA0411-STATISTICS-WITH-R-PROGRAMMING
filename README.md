@@ -13,7 +13,7 @@
 | 4 | Create arrays from vectors with dimension names | [View 1](./experiment-04/screenshot-1.png) / [View 2](./experiment-04/screenshot-2.png) |
 | 5 | Create and manipulate factor variables | [View 1](./experiment-05/screenshot-1.png) / [View 2](./experiment-05/screenshot-2.png) |
 | 6 | Create an R list with vectors, matrices, and functions | [View 1](./experiment-06/screenshot-1.png) / [View 2](./experiment-06/screenshot-2.png) |
-| 7 | Basic R programs (Factors, Random integers, FizzBuzz) | [View 1](./experiment-07/screenshot-1.png) / [View 2](./experiment-07/screenshot-2.png) |
+| 7 | Basic R programs (Factors, Random integers, FizzBuzz) | [View 1](./experiment-07/screenshot-1.png) / [View 2](./experiment-07/screenshot-2.png) / [View 3](./experiment-07/screenshot-3.png) / [View 4](./experiment-07/screenshot-4.png) |
 | 8 | Generate random numbers from a normal distribution | [View 1](./experiment-08/screenshot-1.png) / [View 2](./experiment-08/screenshot-2.png) |
 | 9 | Create empty plots with specified axis limits | [View 1](./experiment-09/screenshot-1.png) / [View 2](./experiment-09/screenshot-2.png) |
 | 10 | Explore a data frame (exam_data) | [View 1](./experiment-10/screenshot-1.png) / [View 2](./experiment-10/screenshot-2.png) |
